@@ -1,0 +1,28 @@
+_repo: The-Nest-in-the-Honeysuckles-and-other-Stories_16185
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: American Sunday-School Union
+    alias: Union, American Sunday-School
+    gutenberg_agent_id: '2632'
+    url: http://www.gutenberg.org/2009/agents/2632
+    wikipedia: http://en.wikipedia.org/wiki/American_Missionary_Fellowship
+description: ''
+gutenberg_issued: '2005-07-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16185'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Christian life -- Juvenile fiction'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Children''s stories'
+title: The Nest in the Honeysuckles, and other Stories
+url: http://www.gutenberg.org/ebooks/16185
