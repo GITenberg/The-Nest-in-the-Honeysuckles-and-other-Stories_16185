@@ -11,6 +11,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2632
     wikipedia: http://en.wikipedia.org/wiki/American_Missionary_Fellowship
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16185#The-Nest-in-the-Honeysuckles-and-other-Stories
 gutenberg_issued: '2005-07-02'
 gutenberg_type: Text
 identifiers:
